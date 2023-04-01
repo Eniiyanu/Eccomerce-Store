@@ -1,0 +1,8 @@
+/media
+example.py
+paystack.py
+db.sqlite3
+rec.txt
+/.vs
+/.vscode
+/env
