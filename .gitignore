@@ -6,3 +6,4 @@ rec.txt
 /.vs
 /.vscode
 /env
+.env
